@@ -1,0 +1,10 @@
+pyrofork
+tgcrypto
+motor
+redis
+python-dotenv
+uvloop
+orjson
+apscheduler
+fastapi
+uvicorn
